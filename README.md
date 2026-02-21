@@ -1,7 +1,7 @@
 # INF512-Unidad2-Ejercicios-Console-CSHARP
 
 Implementando Encapsulación y Constructores en C#
-Proyecto desarrollado como parte de la asignatura INF-512, Unidad 2.
+Proyecto desarrollado como parte de la asignatura Lenguaje de Programacion-INF-5120, Unidad 2.
 
 Ejercicio 1 — Encapsulación con la Clase Producto
 Este ejercicio implementa el principio de encapsulación, uno de los pilares de la POO.
