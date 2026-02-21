@@ -36,11 +36,11 @@ La clase cuenta con dos constructores:
 Sin argumentos — Crea un círculo con radio por defecto de 1.0
 Con argumento — Crea un círculo con el radio indicado, validando que sea mayor que 0. Si el valor es inválido, muestra un error y asigna 1.0 por defecto
 
-Además ofrece dos metodos de cálculo:
+Además ofrece dos metodos de cálculo: <br>
 CalcularArea() — Calcula el área usando la fórmula π × radio² <br>
 CalcularCircunferencia() — Calcula la circunferencia usando 2 × π × radio
 
-Conceptos aplicados:
+Conceptos aplicados: <br>
 Constructores sobrecargados (con y sin parámetros) <br>
 Validación de datos en el constructor <br>
-Uso de Math.PI para cálculos geométricos <br>
+Uso de Math.PI para cálculos geométricos
