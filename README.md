@@ -7,10 +7,10 @@ Ejercicio 1 — Encapsulación con la Clase Producto
 Este ejercicio implementa el principio de encapsulación, uno de los pilares de la POO.
 La clase Producto modela un producto de tienda con los siguientes atributos privados:
 
-id — Identificador único del producto <br>
-descripcion — Nombre o descripción del producto
-precio — Precio del producto
-stock — Cantidad disponible en inventario
+Id — Identificador único del producto <br>
+Descripcion — Nombre o descripción del producto <br>
+Precio — Precio del producto <br>
+Stock — Cantidad disponible en inventario
 
 ¿Que hace?
 Los atributos son privados, lo que significa que no pueden ser modificados directamente desde afuera de la clase. Para acceder a ellos se usan getters (para leer) y setters (para escribir), los cuales incluyen validaciones:
