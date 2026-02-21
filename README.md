@@ -12,11 +12,11 @@ Descripcion — Nombre o descripción del producto <br>
 Precio — Precio del producto <br>
 Stock — Cantidad disponible en inventario
 
-¿Que hace?
-Los atributos son privados, lo que significa que no pueden ser modificados directamente desde afuera de la clase. Para acceder a ellos se usan getters (para leer) y setters (para escribir), los cuales incluyen validaciones:
+¿Que hace? <br>
+Los atributos son privados, lo que significa que no pueden ser modificados directamente desde afuera de la clase. Para acceder a ellos se usan getters (para leer) y setters (para escribir), los cuales incluyen validaciones: <br>
 
-El precio no puede ser negativo.
-El stock no puede ser menor que 0.
+El precio no puede ser negativo. <br>
+El stock no puede ser menor que 0. <br>
 El método DescontarStock(int cantidad) reduce el stock de forma segura, validando que no quede en negativo.
 
 Conceptos aplicados:
@@ -32,8 +32,8 @@ La clase Circulo representa un círculo geométrico con un único atributo priva
 radio — El radio del círculo (debe ser mayor que 0)
 
 ¿Que hace?
-La clase cuenta con dos constructores:
-Sin argumentos — Crea un círculo con radio por defecto de 1.0
+La clase cuenta con dos constructores: <br>
+Sin argumentos — Crea un círculo con radio por defecto de 1.0 <br>
 Con argumento — Crea un círculo con el radio indicado, validando que sea mayor que 0. Si el valor es inválido, muestra un error y asigna 1.0 por defecto
 
 Además ofrece dos metodos de cálculo: <br>
