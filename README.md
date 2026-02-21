@@ -3,7 +3,7 @@
 Implementando Encapsulación y Constructores en C#
 Proyecto desarrollado como parte de la asignatura Lenguaje de Programacion-INF-5120, Unidad 2.
 
-###**Ejercicio 1 — Encapsulación con la Clase Producto**
+**Ejercicio 1 — Encapsulación con la Clase Producto**
 Este ejercicio implementa el principio de encapsulación, uno de los pilares de la POO.
 La clase Producto modela un producto de tienda con los siguientes atributos privados:
 
