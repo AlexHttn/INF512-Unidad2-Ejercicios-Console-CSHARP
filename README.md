@@ -3,7 +3,7 @@
 Implementando Encapsulación y Constructores en C#
 Proyecto desarrollado como parte de la asignatura Lenguaje de Programacion-INF-5120, Unidad 2.
 
-#Ejercicio 1 — Encapsulación con la Clase Producto
+**Ejercicio 1 — Encapsulación con la Clase Producto**
 Este ejercicio implementa el principio de encapsulación, uno de los pilares de la POO.
 La clase Producto modela un producto de tienda con los siguientes atributos privados:
 
@@ -25,7 +25,7 @@ Métodos getter y setter con validación de datos <br>
 Protección del estado interno del objeto <br>
 <br>
 <br>
-#Ejercicio 2 — Constructores con la Clase Circulo
+**Ejercicio 2 — Constructores con la Clase Circulo**
 Este ejercicio demuestra el uso de constructores para inicializar objetos correctamente desde el momento en que son creados.
 La clase Circulo representa un círculo geométrico con un único atributo privado:
 
