@@ -26,6 +26,8 @@ Protección del estado interno del objeto
 
 
 
+
+
 Ejercicio 2 — Constructores con la Clase Circulo
 Este ejercicio demuestra el uso de constructores para inicializar objetos correctamente desde el momento en que son creados.
 La clase Circulo representa un círculo geométrico con un único atributo privado:
